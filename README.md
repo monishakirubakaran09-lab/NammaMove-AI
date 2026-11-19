@@ -1,7 +1,6 @@
 # NammaMove AI — Urban Emerald (corrected starter)
 
 A self-contained **practice / portfolio prototype** of a simulated Bengaluru mobility app.
-**Do not submit prewritten code to DevForge:** its rules require building the hackathon project during the event.
 
 ## Features
 - Demo-only welcome/login (name/email stays in this browser session; no authentication).
